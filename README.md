@@ -3,7 +3,10 @@
 ## Register on Haust Testnet DEX  
 - Go to Haust Testnet DEX — https://dex.testnet.haust.app
 - Click "Connect Wallet" and select your wallet.  
-- Follow the registration process if required.  
+- Follow the registration process if required.
+
+## Galxe
+- Complete galxe tasks
 
 ## Task
 
